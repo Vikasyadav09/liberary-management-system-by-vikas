@@ -1,0 +1,32 @@
+[
+    {
+        "table_no": 1,
+        "seats": 2,
+        "avilable":true,
+        "bookings": []
+    },
+    {
+        "table_no": 2,
+        "seats": 4,
+        "avilable":true,
+        "bookings": []
+    },
+    {
+        "table_no": 3,
+        "seats": 4,
+        "avilable":true,
+        "bookings":[]
+    },
+    {
+        "table_no": 4,
+        "seats": 6,
+        "avilable":true,
+        "bookings": []
+    },
+    {
+        "table_no": 5,
+        "seats": 8,
+        "avilable":true,
+        "bookings": []
+    }
+]
